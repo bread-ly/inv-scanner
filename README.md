@@ -1,4 +1,4 @@
-# bread-ly.github.io
+# Inventory Scanner
 This is a website for my diploma thesis.
 We created an inventory-scanner for the local fire brigade.
 
